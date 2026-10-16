@@ -1,0 +1,17 @@
+# Database Configuration
+HOST=192.168.1.6
+PORT_DB=3306
+USER_NAME=root
+PASSWORD=CRCall2019++
+DATABASE=infocall
+
+# Application Configuration
+NODE_ENV=development
+PORT=5001
+
+# Redis Configuration
+# REDIS_HOST=localhost
+# REDIS_PORT=6379
+
+# Emailable API Configuration
+EMAILABLE_API_KEY=live_146b3ccd17deabbb2be5
